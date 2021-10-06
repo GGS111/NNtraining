@@ -3,6 +3,4 @@
 /.ipynb_checkpoints
 /vgg19-dcbb9e9d.pth
 /VGGpb
-/zz
-/VGG.onnx
-
+/weights
